@@ -1,0 +1,35 @@
+{
+    "author": {
+        "lang": "zh",
+        "nic": "laozi",
+        "url": "Laozi",
+        "ru": "Лао-Цзы",
+        "en": "Laozi",
+    },
+    "translators": [
+        {"lang": "ru",
+         "nic": "malyavin",
+         "ru": "В.В. Малявин",
+         "en": "V.V. Malyavin",
+        },
+        {"lang": "en",
+         "nic": "legge",
+         "ru": "Дж. Легг",
+         "en": "J. Legge",
+        }],
+    "editor": {
+        "ru": "Подготовка китайских текстов выполнена Егором Гребневым - egor.grebnev at gmail.com \n Оригиналы текстов и английские переводы к ним великодушно предоставлены автором сайта Chinese Text Project (<a href=\"http://www.ctext.org\">http://www.ctext.org</a>) Дональдом Стэрдженом",
+        "en": "Chinese texts are adopted for Diglossa by Yegor Grebnev - egor.grebnev at gmail.com. \n Source texts and English translations are courtesy of Donald Sturgeon, Chinese Text Project"
+    },
+
+    "tree": {
+        "url": "Dao_De_jing",
+        "ru": "Дао дэ цзин",
+        "en": "Dao_De_jing",
+        "children": [
+            {"url": "dao_de_jing",
+             "ru": "Дао дэ цзин",
+             "en": "Dao_De_jing"}
+        ]
+    }
+}
